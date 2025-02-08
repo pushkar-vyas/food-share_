@@ -23,6 +23,4 @@ Thumbs.db
 *.swp
 *.swo
 
-# Tailwind CSS
-tailwind.config.js
-postcss.config.js
+
